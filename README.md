@@ -1,1 +1,3 @@
-# Parallel-drawing-of-contour-curves-using-the-Marching-Squares-algorithm
+# tema1
+
+Tema 1 APD
