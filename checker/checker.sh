@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 correct=0
 total=0
