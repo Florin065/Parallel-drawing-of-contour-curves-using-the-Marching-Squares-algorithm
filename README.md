@@ -1,6 +1,6 @@
 # Homework 1 APD - Marching Squares Algorithm with Multithreading
 
-<div align="center"><img src="https://tenor.com/view/friday-good-morning-gif-7349374674499219977.gif" width="300px"></div>
+<div align="center"><img src="https://media.tenor.com/Zf45U-rHMgkAAAAC/friday-good-morning.gif" width="300px"></div>
 
 ## Homework Goals
 
